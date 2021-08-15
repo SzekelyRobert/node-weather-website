@@ -1,4 +1,4 @@
-console.log("Client side js file, buzi Andrew");
+//console.log("Client side js file, buzi Andrew");
 
 // fetch("http://puzzle.mead.io/puzzle").then((response) => {
 //   response.json().then((data) => {
